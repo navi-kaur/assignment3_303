@@ -1,1 +1,2 @@
 # assignment3_303
+The code reads in an infix from the user and outputs if it is valid. It then convert it into a post fix. A queue is created with two values pushed back. The top of the queue is printed. The pop function pops the top value and the new top value is printed. Then the size of the queue and if it’s empty is printed. For the convertToPostfix function to work, spaces must be add in between each character/integer. 
